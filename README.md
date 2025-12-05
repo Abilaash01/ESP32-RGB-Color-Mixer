@@ -37,9 +37,9 @@ The project demonstrates key embedded concepts such as **analog input reading**,
 ### Potentiometers
 | Potentiometer | ESP32 Pin |
 |---------------|-----------|
-| Red           | GPIO 13 (ADC1) |
+| Red           | GPIO 14 (ADC1) |
 | Green         | GPIO 12 (ADC1) |
-| Blue          | GPIO 14 (ADC1) |
+| Blue          | GPIO 13 (ADC1) |
 
 > **Note:** If using a common-cathode LED, connect the common pin to GND and invert the PWM output in the code.
 
