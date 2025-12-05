@@ -69,7 +69,7 @@ The project demonstrates key embedded concepts such as **analog input reading**,
 
 ---
 
-[![Watch the video](https://youtube.com/shorts/ghydHgI6zDc?si=qy3B1xxyVI3us8zj)
+[![Watch the video]](https://youtube.com/shorts/ghydHgI6zDc?si=qy3B1xxyVI3us8zj)
 
 ## References
 - Original Freenove Project 11.2 – Soft Colorful Light: [https://docs.freenove.com/projects/fnk0047/en/latest/fnk0047/codes/C/11_Potentiometer_%26_LED.html](https://docs.freenove.com/projects/fnk0047/en/latest/fnk0047/codes/C/11_Potentiometer_%26_LED.html)  
